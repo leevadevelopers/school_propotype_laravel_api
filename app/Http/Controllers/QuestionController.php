@@ -11,6 +11,7 @@ class QuestionController extends Controller
      * @param Request $request
      * @return string
      */
+    //twat
     public function __invoke(Request $request): string
     {
         try {
